@@ -1,0 +1,13 @@
+Package: com.breadworks.fluidity
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Kieran Wilson
+Architecture: iphoneos-arm
+Filename: debs//Fluidity.deb
+Size: 258862
+MD5sum: 9ac9b783966c6ade610dd5799906b525
+Description: Add iPX UI to other iOS 11 devices. Can be installed over FluidEnabler. Respring if Cydia doesn't.
+Name: Fluidity
+Author: Sam Breadman
+Homepage: https://twitter.com/samthebreadman
+Depiction: 
