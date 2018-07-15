@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>Test</version>
+		<change>X</change>
+		<change>X</change>
+		<change>X</change>
+	</changes>
+	<changes>
+		<version>1</version>
+		<change>Initial Release</change>
+	</changes>
+</changelog>
